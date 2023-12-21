@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.hero {
+.hero-section {
     height: 500px;
     background: url('https://m.media-amazon.com/images/I/51ZVeRqZvGL._SX3000_.jpg');
     background-size: 100%; 
@@ -11,14 +11,14 @@
 	left: 50px;
 	display:flex;
 }
-.card {
+.product-card {
 	width: 300px;
 	height: 300px;
 	background-color: white;
 	box-shadow: 1px 1px 1px black;
 	border: 2px solid red;
 }
-.card img {
+.product-card img {
 	width: 100px;
 	height: 100px;
 	object-fit: cover;
